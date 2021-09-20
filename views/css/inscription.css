@@ -1,0 +1,16 @@
+.page-wrapper{
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.page-wrapper h3{
+    color: red;
+    text-align: center;
+}
+.page-wrapper label{
+    color: rgb(98, 0, 255);
+    text-align:right;
+}
+form{
+    margin: 0 auto;
+    width: 100%;
+}

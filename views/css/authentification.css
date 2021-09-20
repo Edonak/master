@@ -1,0 +1,47 @@
+.formauth{
+    width:30%;
+    height: 58vh;
+    margin:0 auto;
+    background-color: #E6E6E6;
+    overflow: hidden;
+    transform:translateY(15%);
+    box-shadow: 0 0 3.5px #5a5958;
+    border-radius: 7px;
+}
+.iconadmin{
+    text-align:center;
+    margin:0 auto;
+    border-radius: 57%;
+    width: 33%;
+    height: 115px;
+    padding: 8px;
+    border: 2px solid rgb(253, 253, 253);
+}
+.usersicon{
+    font-size: 5rem;
+   
+}
+.form-group{
+    width: 75%;
+    margin: 0 auto;
+}
+.form-group i{
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 15px;
+    color: #5a5958;
+    font-size: .8rem;
+}
+::placeholder{
+    text-indent: 30px;
+    font-size: 15px;
+    font-style: oblique;
+}
+.button{
+    text-align: center;
+}
+.btncnnx{
+    background-color: red !important;
+    width: 75%;
+}
+
